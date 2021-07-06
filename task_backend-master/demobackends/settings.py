@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'createuser',
     'rest_framework',
+    'rest_framework_swagger',
     #'django_pdb',
 ]
 

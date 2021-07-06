@@ -33,6 +33,8 @@ http://localhost:8000/getTaskFilesList/ --to get List of Task files
 http://localhost:8000/getObjectlevel/ -- Object level attributes
 http://localhost:8000/getScenelevel/ --Scene level attributes
 
+For swagger documentation url -http://127.0.0.1:8000/docs/
+
 **Commands to Frontend**
 After cloning/ download Github code 
 Go to project folder --cd projectfolder name(ADAS-FrontEnd-main)

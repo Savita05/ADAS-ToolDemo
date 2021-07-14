@@ -21,7 +21,7 @@ pip install django
 pip install djangorestframework
 pip install django-cors-headers
 pip install djongo
-python manage.py makemigrations appname
+python manage.py makemigrations
 python manage.py migrate
 finally--
 **Backend server start command**: python manage.py runserver
